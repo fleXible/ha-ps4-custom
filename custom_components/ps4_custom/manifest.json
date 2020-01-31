@@ -3,6 +3,7 @@
   "name": "PlayStation 4 Custom",
   "documentation": "https://github.com/fleXible/ha-ps4-custom",
   "dependencies": [
+    "homekit",
     "ps4"
   ],
   "codeowners": ["@fleXible"],
