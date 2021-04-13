@@ -1,6 +1,7 @@
 {
   "domain": "ps4_custom",
   "name": "PlayStation 4 Custom",
+  "version": "1.0",
   "documentation": "https://github.com/fleXible/ha-ps4-custom",
   "dependencies": ["ps4"],
   "codeowners": ["@fleXible"],
