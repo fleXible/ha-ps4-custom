@@ -1,0 +1,6 @@
+{
+  "name": "My awesome thing",
+  "content_in_root": false,
+  "homeassistant": "2023.11",
+  "hacs": "2.0.0"
+}
